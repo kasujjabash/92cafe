@@ -43,7 +43,7 @@ Here’s a **README.md** for the **92 Cafe App**, incorporating the UI details f
 
 ## 📸 UI Preview  
 
-![92 Cafe App UI](92-Cafe-UI.jpg)  
+![92 Cafe App UI](https://github.com/kasujjabash/92cafe/blob/main/92%20Cafe%20UI.jpg)  
 
 ---
 
