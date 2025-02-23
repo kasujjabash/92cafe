@@ -1,10 +1,9 @@
-Here’s a **README.md** for the **92 Cafe App**, incorporating the UI details from the image and adding developer contact information.  
 
 ---
 
 # 🍽️ 92 Cafe App  
 
-**92 Cafe** is a modern and intuitive food ordering application designed to provide a seamless and enjoyable dining experience. Users can browse a beautifully curated menu, explore meal details, and place orders effortlessly.  
+**92 Cafe** is a modern and intuitive food ordering application designed to provide a seamless and enjoyable dining experience. Users can browse a beautifully curated menu, explore meal details, and place orders effortlessly.
 
 ---
 
@@ -51,7 +50,7 @@ Here’s a **README.md** for the **92 Cafe App**, incorporating the UI details f
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/92-cafe-app.git
+git clone https://github.com/kasujjabash/92cafe.git
 cd 92-cafe-app
 ```
 
@@ -79,8 +78,8 @@ flutter run
 For any inquiries, feedback, or collaboration, contact the developers:  
 
 👨‍💻 **Lead Developer**: [Kasujja] – **kasujjabash80@gmail.com**  
-🛠️ **Backend Developer**: [Abdi-moha] – **backend@example.com**  
-🎨 **UI/UX Designer**: [CodeMan] – **designer@example.com**  
+🛠️ **Backend Developer**: [Abdi-moha] – **lilmoha26@gmail.com**  
+🎨 **UI/UX Designer**: [CodeMan] – **codemanmoha26@gmail.com**  
 
 For general support, email **support@92cafe.com**.  
 
